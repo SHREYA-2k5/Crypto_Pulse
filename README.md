@@ -96,24 +96,24 @@ Usage  💡
 
 To track the price of a cryptocurrency, simply run the following command: ✨
 
-price <coin>
+1.price <coin>
 
-price <coin> [-t time]
+2.price <coin> [-t time]
 
-price <coin> [--exchange name]
+3.price <coin> [--exchange name]
 
-price <coin> [--exchange name] [-t time]
+4.price <coin> [--exchange name] [-t time]
 
-To track the Anonymous Numbers Price, simply run the folowing command:
+5.To track the Anonymous Numbers Price, simply run the folowing command:
 
-price 8num
+6.price 8num
 
-price 8num [-t time]
+7.price 8num [-t time]
 
 
-Replace <coin> with the cryptocurrency you want to track (e.g., btc, eth). You can optionally specify the interval (in seconds) 
+🌟Replace <coin> with the cryptocurrency you want to track (e.g., btc, eth). You can optionally specify the interval (in seconds) 
 
-for price updates using the -t or --interval flag. By default, the interval is set to 30 seconds.
+🌟for price updates using the -t or --interval flag. By default, the interval is set to 30 seconds.
 
 
 Tech Stack 🛠
