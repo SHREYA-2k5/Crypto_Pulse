@@ -118,7 +118,7 @@ for price updates using the -t or --interval flag. By default, the interval is s
 
 Tech Stack 🛠
 
-Python  ![image](https://github.com/user-attachments/assets/2d915c57-1fc3-4ba6-85f7-48eb92608c56)
+Python   
 
 
 
