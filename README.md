@@ -24,9 +24,8 @@ Features 🌟
 
 6.Fully customizable and adaptable to your preferences.
 
-7.Open-source project for transparency and community input.
-
-8.Simple and efficient tracking of crypto prices.
+ 
+ 7.Simple and efficient tracking of crypto prices.
 
 
 
